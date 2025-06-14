@@ -47,8 +47,8 @@ Minimal and elegant portfolio to showcase my work & vibe ✨
 ---
 
 ### 💌 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23f4c2c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-ffd6e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23f4c2c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaibleh)
+[![Gmail](https://img.shields.io/badge/Gmail-ffd6e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojozairaelizabeth@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffe4ec?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 ---
