@@ -28,11 +28,11 @@
 
 ### 📌 Featured Projects
 
-🌸 **[Mental Health Blog](https://github.com/yourusername/mental-health-blog)**  
+🌸 **[Mental Health Blog](#)**  
 A safe & soothing space to write and read stories about mental wellness 💕  
 `React` `TailwindCSS` `Firebase`
 
-🌼 **[My Cute Portfolio](https://yourportfolio.com)**  
+🌼 **[My Cute Portfolio](#)**  
 Minimal and elegant portfolio to showcase my work & vibe ✨  
 `HTML` `CSS` `JavaScript`
 
