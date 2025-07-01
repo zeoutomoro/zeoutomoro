@@ -9,7 +9,7 @@
 ### 🌼 About Me
 - 🧁 Currently learning: React, Tailwind CSS & Firebase  
 - 🌈 Love designing beautiful user experiences  
-- 📚 Also into networking & system tinkering  
+- 📚 Also into networking 
 - 🎀 Making the web a little prettier, one page at a time  
 
 ---
