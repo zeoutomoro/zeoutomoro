@@ -38,22 +38,7 @@ Minimal and elegant portfolio to showcase my work & vibe ✨
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&icon_color=ffb6c1&title_color=ffb6c1" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&title_color=ffb6c1" height="170" />
-</div>
-
----
-
 ### 💌 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23f4c2c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaibleh)
 [![Gmail](https://img.shields.io/badge/Gmail-ffd6e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojozairaelizabeth@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffe4ec?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
----
-
-<details>
-  <summary>🧁 Fun Fact About Me</summary>
-  I love pink code themes, iced coffee, and aesthetic Notion setups 💗
-</details>
